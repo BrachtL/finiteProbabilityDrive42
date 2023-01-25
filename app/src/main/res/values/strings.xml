@@ -2,4 +2,7 @@
     <string name="app_name">Dice Roller</string>
     <string name="roll">Roll</string>
     <string name="textViewRoll" />
+    <string name="Title1">Chose how many sides you want your dice to have:</string>
+    <string name="inputSides">(number of sides)</string>
+    <string name="hintNumberOfSides">number of sides</string>
 </resources>
